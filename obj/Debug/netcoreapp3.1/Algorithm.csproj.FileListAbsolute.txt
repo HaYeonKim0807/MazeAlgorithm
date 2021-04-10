@@ -1,0 +1,13 @@
+C:\Users\김하연\source\repos\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.exe
+C:\Users\김하연\source\repos\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.deps.json
+C:\Users\김하연\source\repos\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.runtimeconfig.json
+C:\Users\김하연\source\repos\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.runtimeconfig.dev.json
+C:\Users\김하연\source\repos\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.dll
+C:\Users\김하연\source\repos\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.pdb
+C:\Users\김하연\source\repos\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.csprojAssemblyReference.cache
+C:\Users\김하연\source\repos\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.AssemblyInfoInputs.cache
+C:\Users\김하연\source\repos\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.AssemblyInfo.cs
+C:\Users\김하연\source\repos\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\김하연\source\repos\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.dll
+C:\Users\김하연\source\repos\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.pdb
+C:\Users\김하연\source\repos\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.genruntimeconfig.cache
